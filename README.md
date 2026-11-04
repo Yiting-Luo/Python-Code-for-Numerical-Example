@@ -1,1 +1,0 @@
-# Python-Code-for-Numerical-Example
